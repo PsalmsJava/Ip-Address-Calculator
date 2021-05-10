@@ -1,7 +1,5 @@
 
 """
-    This script is programmed by Mouhab-dev
-    Follow me on Github: https://github.com/mouhab-dev
 """
 
 from PyQt5 import QtCore, QtGui, QtWidgets
